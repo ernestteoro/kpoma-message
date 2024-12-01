@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "213029298664",
+    "project_id": "kpoma-messaging",
+    "storage_bucket": "kpoma-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213029298664:android:8a944b66d499595e18445d",
+        "android_client_info": {
+          "package_name": "com.kpoma.kpomamessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213029298664-3tl8371f2mnprt09i12fd4jfadiso0b0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kpoma.kpomamessaging",
+            "certificate_hash": "d9a6e9f5dafad4382f5b312269f7bc0e38c5f96a"
+          }
+        },
+        {
+          "client_id": "213029298664-9807b36kn219e2b8d6bk29po2q1mvd7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwuwbn-786nkY449vuOqtk7y_OgltqVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213029298664-9807b36kn219e2b8d6bk29po2q1mvd7o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "213029298664-ck899bj56ks5e6u5sd06p24igopssrgr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kpoma.kpomamessaging"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
